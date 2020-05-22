@@ -1,16 +1,16 @@
 # JRT Multi Display
 
-This is a simple HTML page you can run locally to bring multiple Joel Real Timing (JRT) [1] pages into a single view.  JRT is a great utility for sim racing that is used on a secondary display.  Great for a 4th monitor, a nearby iPad, etc.
+This is a simple HTML page you can run locally to bring multiple Joel Real Timing (JRT) [1] pages into a single view.  JRT is a great utility for sim racing that is often used on a secondary display.
 
 [1] https://joel-real-timing.com
 
 # How does it work?
 
-This page uses iframes to bring in any number of individual JRT pages.  Running the page in full screen on a secondary display allows you to use the full size of that screen.  By default, it assumes a 2560x1440 display and the height and width of the individual pages is calculated off of that resolution.  If you're using a 1920x1080 display, you'll need to calculate the height and width for each page for your setup.
+This page uses iframes to bring in any number of individual JRT pages running locally on your PC.  By default, it assumes a 2560x1440 display and the height and width of the individual pages is calculated off of that resolution.  If you're using a 1920x1080 display, or any other resolution, you'll need to calculate the height and width for each iframe based on your setup.
 
-By default, it shows the timing page at the top with full width.  The second row is broken into three columns.  From left to right, trackmap, dashboard, and an embedded Twitch chat.  It's using my Twitch chat, so just change the channel name to use your own or there's a commented out iframe for dashboard2, which I've used to report tire temperatures and pressures during a race.
+By default, it shows the timing page at the top at full width.  The second row is broken into three columns.  From left to right, trackmap, dashboard, and an embedded Twitch chat.  The default page is using my Twitch chat, so just change the channel name to use your own.  Or, if you don't need or want Twitch chat, there's a commented out iframe for dashboard2, which I've used to report tire temperatures and pressures during a race.  Certainly this is completely customizable.  You can swap in any JRT page, or really any page at all, change the heights and widths of each, and make this exactly what you need while you're racing.
 
-If you want to edit each individual JRT page, you would do that like normal through the JRT config page.  Those changes will automatically display in this page as you make them.
+If you want to edit what is displaying within each individual JRT page, you would do that as you normally do through the JRT config page.  Those changes will automatically display in this page as you make them.
 
 ![Example](https://i.imgur.com/QI9dtHQ.jpg)
 

@@ -47,4 +47,4 @@ Come up with an awesome implementation you want to share with the sim racing com
 
 # Disclaimer
 
-I'm not affliated with JRT.  I just made this file for my own use and as others have seen it and asked how, I figured I'd share it with the sim racing community.  Enjoy!
+I'm not affliated with JRT.  I made this file for my own use and as others have seen it and asked how, I figured I'd share it with the sim racing community.  Enjoy!

@@ -18,7 +18,7 @@ As you have probably noticed by now, this page is completely customizable.  You 
 
 If you want to edit what is displaying within each individual JRT page, you would do that as you normally do through the JRT config page.  Those changes will automatically display in this page as you make them.
 
-![Example](https://i.imgur.com/QI9dtHQ.jpg)
+![Example](https://i.imgur.com/ercFO2J.jpg)
 
 [2] https://www.w3schools.com/html/html_iframe.asp
 

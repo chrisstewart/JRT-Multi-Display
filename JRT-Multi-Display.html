@@ -1,0 +1,40 @@
+<html>
+	<style>
+		body {
+			background-color: rgb(34, 34, 34);
+			margin: 0; 
+			padding: 0; 
+			overflow: hidden;
+		}
+		
+		.box {
+			float: left;
+			margin-right: 0px;
+		}
+		
+		.clear {
+			clear: both;
+		}
+	</style>
+	<body>
+		<iframe src="http://localhost:8000/timing.html" width="2560" height="920" frameBorder="0"></iframe>
+
+		<div class="box">
+			<iframe src="http://localhost:8000/trackmap.html" width="853" height="520" frameBorder="0" align="left"></iframe>
+		</div>
+
+		<div class="box">
+			<iframe src="http://localhost:8000/dashboard.html" width="853" height="520" frameBorder="0" align="left"></iframe>
+		</div>
+
+		<div class="box">
+			<!-- Twitch chat example -->
+			<iframe src="https://www.twitch.tv/embed/MonkaaayRacing/chat?darkpopout" width="853" height="520" frameBorder="0" align="right"></iframe>
+			
+			<!-- Additional JRT page example -->
+			<!--<iframe src="http://localhost:8000/dashboard2.html" width="853" height="520" frameBorder="0" align="right"></iframe>-->
+		</div>
+
+		<div class="clear"></div>
+	</body>
+</html>

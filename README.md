@@ -26,15 +26,16 @@ If you want to edit what is displaying within each individual JRT page, you woul
 
 ## Initial Setup
 
-1) Create a file on your desktop, and name it "JRT-Multi-Display.html".
-2) Open that file in a text editor.  Notepad works.
-3) Copy all of the contents of this page (https://github.com/chrisstewart/JRT-Multi-Display/blob/master/JRT-Multi-Display.html) into your new file.
-4) Save and close your text editor.
+1) On the Windows desktop, right-click, and choose "New -> Text Document".
+2) Name the file "JRT-Multi-Display.html", removing the ".txt" included by default.
+3) Open the file you just created in a text editor.  Notepad works.
+4) Copy all of the contents of this page (https://github.com/chrisstewart/JRT-Multi-Display/blob/master/JRT-Multi-Display.html) into your new file.
+5) Save and close your text editor.
 
 ## Daily Use
 
 1) Start JRT on your PC.
-2) Double-click on this file to open it in your web browser.
+2) Double-click on "JRT-Multi-Display.html" to open it in your web browser.
 3) Press F11 to full screen the browser on your secondary display.
 
 # Support

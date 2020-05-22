@@ -18,9 +18,11 @@ As you have probably noticed by now, this page is completely customizable.  You 
 
 If you want to edit what is displaying within each individual JRT page, you would do that as you normally do through the JRT config page.  Those changes will automatically display in this page as you make them.
 
-![Photo](https://i.imgur.com/ercFO2J.jpg)
-
+YouTube
 [![Video](http://img.youtube.com/vi/jJ-znyQPHdY/0.jpg)](https://www.youtube.com/watch?v=jJ-znyQPHdY "Video")
+
+Photo
+![Photo](https://i.imgur.com/ercFO2J.jpg)
 
 [2] https://www.w3schools.com/html/html_iframe.asp
 

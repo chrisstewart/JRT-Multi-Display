@@ -44,7 +44,7 @@ YouTube
 
 # Support
 
-A simple virtual fist bump is appreciated.  If you're enjoying this page, please come by and tell me about it on my Twitch channel, https://twitch.tv/MonkaaayRacing.
+A simple virtual fist bump is appreciated.  If you're enjoying this page, please come by and tell me about it on my Twitch channel, https://twitch.tv/ChrisStewartTV.
 
 # Contribute
 

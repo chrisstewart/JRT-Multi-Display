@@ -44,7 +44,7 @@ YouTube
 
 # Support
 
-A simple virtual fist bump is appreciated.  If you're enjoying this page, please come by and tell me about it on my YouTube channel, https://youtube.com/ChrisStewartTV.
+A simple virtual fist bump is appreciated.  If you're enjoying this page, please come by and tell me about it on my YouTube channel, https://youtube.com/@ChrisStewartTV.
 
 # Contribute
 
